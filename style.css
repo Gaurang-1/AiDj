@@ -38,3 +38,20 @@
     font-size: 23px;
     margin:15px;
 }
+
+.play_button{
+    width:130px;
+    font-size:25px;
+    background-color: red;
+    color:white;
+    border-radius: 20px;
+}
+
+.play_button:hover{
+    background-color: green;
+}
+
+canvas{
+    border:5px dashed white;
+    border-radius: 20px;
+}
